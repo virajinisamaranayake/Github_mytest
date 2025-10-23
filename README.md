@@ -11,3 +11,7 @@ npm run dev
 ```
 
 Open http://localhost:5173 in your browser.
+
+
+project ekak krn yamu meken git hub practice wenna.html css js walin.database ekk connect krmu.siple ekk hdmu issella.
+
